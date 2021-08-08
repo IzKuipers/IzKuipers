@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**TechWorldInc/TechWorldInc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Glad you found my github profile! I do actually wonder how you ended up here, was it because of ArcOS, NetCMD, or maybe another repository? TWIx86 perhaps? Well actually it doesn't matter, because you are here now. Welcome!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I've been working on ArcOS since February, with little other projects rolling in here and there, like as I described NetCMD, my terminal in Electron, and TWIx86, my OS made in C# with the COSMOS kernel.
+
+
+🌍 You can find my in-progress portfolio [here](https://www.techworldinc.tk/)
+
+❓ Want to know more about ArcOS? Take a look [here](https://www.techworldinc.tk/ArcOS)
+
+📄 You can find some of my bigger projects at [this link](https://www.techworldinc.tk/projects)
+
+---
+
+I hope you like what you see and feel free to give feedback on my repositories!
