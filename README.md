@@ -14,7 +14,5 @@ Glad you found my github profile! I do actually wonder how you ended up here, wa
 📄 You can find some of my bigger projects at [this link](https://www.techworldinc.tk/projects)
 
 ---
-https://github-readme-stats.vercel.app/api/top-langs/?username=TechWorldInc&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats
-
 
 I hope you like what you see and feel free to give feedback on my repositories!
