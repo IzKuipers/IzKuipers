@@ -8,11 +8,6 @@ Glad you found my github profile! I do actually wonder how you ended up here, wa
 
 
 🌍 You can find my in-progress portfolio [here](https://www.techworldinc.tk/)
-
-❓ Want to know more about ArcOS? Take a look [here](https://www.techworldinc.tk/ArcOS)
-
-📄 You can find some of my bigger projects at [this link](https://www.techworldinc.tk/projects)
-
 ---
 
 I hope you like what you see and feel free to give feedback on my repositories!
