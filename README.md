@@ -8,7 +8,6 @@ Want to contact me? go ahead, [here's my email](mailto:me@twihub.tk)
 Oh, I'm on discord too of course: Izaak#4599
 
 Anyway, below you can find some of my bigger projects, most of them still have an active development cycle, but some of them have been discontinued.
----
 
 #### What am I working on?
 * ArcOS is currently going through a rewrite/refactor of the entire codebase
