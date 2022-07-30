@@ -4,7 +4,7 @@ Glad you found my github profile! I do actually wonder how you ended up here, wa
 
 My name is Izaak Kuipers, a 15 year old fullstack developer focussed solely on making programs accessible to the public for IT hobbyists and the like. I've been on GitHub since december 2020 and have almost a houndred total repositories. I hope to make a lot of them public in the near future but that is still up for consideration.
 
-Want to contact me? go ahead, [here's my email](mailto:me@twihub.tk)
+Want to contact me? go ahead, [here's my email](mailto:me@twiserver.nl)
 
 Oh, I'm on discord too of course: Izaak#4599
 
