@@ -18,7 +18,7 @@ Anyway, below you can find some of my bigger projects, most of them still have a
 * My private server called the Cortex where I store music, movies and files.
 * Discord bots are freaking amazing, working on refactoring my typescript Discord bot as we speak.
 
-🌍 You can find my (outdated) portfolio [here]([https://](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+🌍 You can find my (outdated) portfolio [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ---
 
 Special thanks to [@keesvv](https://www.github.com/keesvv) for helping me out over the past year with my programming experience.
