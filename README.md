@@ -16,8 +16,9 @@ Anyway, below you can find some of my bigger projects, most of them still have a
 * TWILang-Test is a repository where I'm writing my own programming language (private as of june 8th 2022)
 * nTerm development was restarted with a svelte rewrite but it has come to a pause. You can always look at the current running build [here](https://www.izaakdev.tk/nTerm).
 * My private server called the Cortex where I store music, movies and files.
+* Discord bots are freaking amazing, working on refactoring my typescript Discord bot as we speak.
 
-🌍 You can find my (outdated) portfolio [here](https://www.izaakdev.tk/)
+🌍 You can find my (outdated) portfolio [here]([https://](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ---
 
 Special thanks to [@keesvv](https://www.github.com/keesvv) for helping me out over the past year with my programming experience.
