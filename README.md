@@ -9,8 +9,6 @@ Want to contact me? Take a look at one of the following options:
 - Good thing e-mail still exists: [here's my e-mail](mailto:me@twiserver.nl) 📧
 - Oh, I'm on discord too: **Izaak#4599** 💬
 
-> ⚠️ NOTE: My YouTube will not be listed here as it's really unmaintained at the moment.
-
 ## What am I working on? ⚒️
 
 🔐 = Private or not on GitHub<br/>
