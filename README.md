@@ -2,7 +2,12 @@
 
 Welcome to my GitHub profile! My name is Izaak Kuipers, a 16 year old fullstack developer focussed solely on making programs accessible to the public for IT hobbyists and the like. I've been on GitHub since december 2020 and have nearly 200 repositories. I specialize in frontend development using TS, CSS and Svelte, and some backend API's using TS and NodeJS. I also have a lot of experience creating API's and other applications using C#.
 
-> 🎉 The ArcOS Desktop app is now stable! [Take a look](https://izk-arcos.github.io/)!
+
+<b>
+  
+🎉 The ArcOS Desktop app is now stable! [Take a look](https://izk-arcos.github.io/)!
+
+</b>
 
 ## Want to get in contact? 📧
 
