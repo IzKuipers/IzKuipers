@@ -24,12 +24,13 @@ Want to contact me? Take a look at one of the following options:
 The following projects are in active development:
 
 - 🔓 ArcOS is being rewritten from the ground up: [take a look](https://github.com/IzK-ArcOS)
-- 🔐 SchoolSystem is a project in which students of my school can manage their homework
+- 🔐 **Public Soon**: CanvasScript: a programming language and editor to manipulate HTML canvasses
 - 🔐 The Reggistry is an egg-management-system (yes, that's a thing) in which my household keeps track of how many eggs the chickens lay on a daily basis
 - 🔐 My Cortex server infrastructure is currently undergoing a redo of the internal structure
 
 Finally, these projects are discontinued or halted:
 
+- 🔐 SchoolSystem is a project in which students of my school can manage their homework
 - 🔐 My discord bot is halted because of other things that took priority
 - 🔓 TWIx86 is still dead and is likely permanently discontinued.
 - 🔓 TWILang-Test was the first implementation of my own programming language but is no longer in development.
