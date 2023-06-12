@@ -16,27 +16,6 @@ Want to contact me? Take a look at one of the following options:
 - Good thing e-mail still exists: [here's my e-mail](mailto:me@twiserver.nl) 📧
 - Oh, I'm on discord too: **Izaak#4599** 💬
 
-## What am I working on? ⚒️
-
-🔐 = Private or not on GitHub<br/>
-🔓 = Public or Public Archive
-
-The following projects are in active development:
-
-- 🔓 ArcOS is being rewritten from the ground up: [take a look](https://github.com/IzK-ArcOS)
-- 🔐 **Public Soon**: CanvasScript: a programming language and editor to manipulate HTML canvasses
-- 🔐 The Reggistry is an egg-management-system (yes, that's a thing) in which my household keeps track of how many eggs the chickens lay on a daily basis
-- 🔐 My Cortex server infrastructure is currently undergoing a redo of the internal structure
-
-Finally, these projects are discontinued or halted:
-
-- 🔐 SchoolSystem is a project in which students of my school can manage their homework
-- 🔐 My discord bot is halted because of other things that took priority
-- 🔓 TWIx86 is still dead and is likely permanently discontinued.
-- 🔓 TWILang-Test was the first implementation of my own programming language but is no longer in development.
-- 🔓 nTerm got some refactoring in november 2022 in the original Vite-TS codebase but got halted since: [here's the code](https://github.com/IzKuipers/nTerm)
-- 🔓 vTDx is my note taking WebApp, which also got halted because of other things that took priority: [vTDx organization](https://github.com/vTDx)
-
 ## ✨ Special credits ✨
 
 Huge thanks to [@keesvv](https://www.github.com/keesvv) for helping me out over the years with my programming and IT experience.
