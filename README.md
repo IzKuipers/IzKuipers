@@ -19,3 +19,11 @@ Want to contact me? Take a look at one of the following options:
 ## ✨ Special credits ✨
 
 Huge thanks to [@keesvv](https://www.github.com/keesvv) for helping me out over the years with my programming and IT experience.
+
+## Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
