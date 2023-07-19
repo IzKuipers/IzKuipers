@@ -15,6 +15,7 @@ Want to contact me? Take a look at one of the following options:
 
 - Good thing e-mail still exists: [here's my e-mail](mailto:me@twiserver.nl) 📧
 - Oh, I'm on discord too: **Izaak#4599** 💬
+- Alternatively, chat with my community on the [ArcOS Discord Server](https://discord.gg/ARjRM6uNqf)!
 
 ## ✨ Special credits ✨
 
