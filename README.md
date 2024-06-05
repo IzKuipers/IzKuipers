@@ -4,12 +4,25 @@ Welcome to my GitHub profile! My name is Izaak Kuipers, a 17 year old fullstack 
 
 ## Want to get in contact? 📧
 
-Want to contact me? Take a look at one of the following options:
+Want to contact me? My door's always open! Take a look at one of the following options:
 
 - Take a look at my website: [Here!](https://izkuipers.nl) (In need of a redo!)
-- Good thing e-mail still exists: [here's my e-mail](mailto:izaak@arcapi.nl) 📧
+- Good thing email still exists: [here's my e-mail](mailto:izaak@arcapi.nl) 📧
 - Oh, I'm on discord too: [@izkuipers](https://discordapp.com/users/656469722526908427) 💬
 - Alternatively, chat with my community on the [ArcOS Discord Server](https://discord.gg/S3fTadu88C)!
+
+<details>
+
+<summary>Check out my statistics (WIP)</summary>
+
+<br/>
+
+> **NOTE**: This section is currently being worked on, I need to get myself hands on some more nerdy stats to put here, hang on!
+
+![](https://streak-stats.demolab.com/?user=IzKuipers)
+
+</details>
+
 
 ## ✨ Special credits ✨
 
