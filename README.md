@@ -22,8 +22,3 @@ Want to contact me? My door's always open! Take a look at one of the following o
 ![](https://streak-stats.demolab.com/?user=IzKuipers)
 
 </details>
-
-
-## ✨ Special credits ✨
-
-Huge thanks to [@keesvv](https://www.github.com/keesvv) for helping me out over the years with my programming and IT experience.
