@@ -13,11 +13,7 @@ Want to contact me? My door's always open! Take a look at one of the following o
 
 <details>
 
-<summary>Check out my statistics (WIP)</summary>
-
-<br/>
-
-> **NOTE**: This section is currently being worked on, I need to get myself hands on some more nerdy stats to put here, hang on!
+<summary>Check out commit streak!</summary>
 
 ![](https://streak-stats.demolab.com/?user=IzKuipers)
 
