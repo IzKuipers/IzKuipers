@@ -7,7 +7,7 @@ Welcome to my GitHub profile! My name is Izaak Kuipers, a 17 year old fullstack 
 Want to contact me? My door's always open! Take a look at one of the following options:
 
 - Take a look at my website: [Here!](https://izkuipers.nl) (In need of a redo!)
-- Good thing email still exists: [here's my e-mail](mailto:izaak@arcapi.nl) 📧
+- Good thing email still exists: [here's my e-mail](mailto:izaak.kuipers@gmail.com) 📧
 - Oh, I'm on discord too: [@izkuipers](https://discordapp.com/users/656469722526908427) 💬
 - Alternatively, chat with my community on the [ArcOS Discord Server](https://discord.gg/S3fTadu88C)!
 
