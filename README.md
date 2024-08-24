@@ -13,7 +13,7 @@ Want to contact me? My door's always open! Take a look at one of the following o
 
 <details>
 
-<summary>Check out commit streak!</summary>
+<summary>Check out my commit streak!</summary>
 
 ![](https://streak-stats.demolab.com/?user=IzKuipers)
 
