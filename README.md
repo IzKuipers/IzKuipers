@@ -11,10 +11,9 @@ Want to contact me? My door's always open! Take a look at one of the following o
 - Oh, I'm on discord too: [@izkuipers](https://discordapp.com/users/656469722526908427) 💬
 - Alternatively, chat with my community on the [IzKuipers Community Discord Server](https://discord.gg/WW3KXHUFgj)!
 
-<details>
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
 
-<summary>Check out my commit streak!</summary>
+<img src="https://streak-stats.demolab.com/?user=IzKuipers">
+<img src="https://github-readme-stats.vercel.app/api?username=IzKuipers&show_icons=true&count_private=true">
 
-![](https://streak-stats.demolab.com/?user=IzKuipers)
-
-</details>
+</div>
