@@ -13,7 +13,7 @@ Want to contact me? My door's always open! Take a look at one of the following o
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
 
-<img src="https://streak-stats.demolab.com/?user=IzKuipers">
-<img src="https://github-readme-stats.vercel.app/api?username=IzKuipers&show_icons=true&count_private=true">
+<img src="https://streak-stats.demolab.com/?user=IzKuipers" style="width: calc(50% - 10px)">
+<img src="https://github-readme-stats.vercel.app/api?username=IzKuipers&show_icons=true&count_private=true" style="width: calc(50% - 10px)">
 
 </div>
