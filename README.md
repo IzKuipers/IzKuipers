@@ -19,6 +19,8 @@ It's been a nice run folks, but I've decided to stop it _soon_. I've been making
 
 **July 25th 2025** will be the last day of daily commits. On that day I will take a 1 week hiatus from programming altogether to let go of this habit, and to take the well deserved break people have been telling me to take for literally years. Why this date? Because it's the 600th day of the streak, a nice round number to end it with. I sure do love me some irony.
 
+The end of the streak has been reached! My one week hiatus from programming starts now and ends in one week. See you then'
+
 ---
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
