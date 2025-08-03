@@ -13,19 +13,3 @@ Want to contact me? My door's always open! Take a look at one of the following o
 
 > [!WARNING]
 > For those of you clever enough to have found my phone number on my resumé, that number is **for employers or business inquiries only**. I don't need anyone texting or calling me just because. Leave my number alone.
-
-# The streak is ending
-It's been a nice run folks, but I've decided to stop it _soon_. I've been making daily commits since December 3rd 2023, and the time has come to choose what I value more: my mental health, friends and family and my social life, or spending hours of every day writing commits just to watch a square turn green on a graph, and to watch a number increase. Suffice to say, I'd much rather continue building my social life than have it rot away because I'm afraid of losing my silly GitHub streak.
-
-**July 25th 2025** will be the last day of daily commits. On that day I will take a 1 week hiatus from programming altogether to let go of this habit, and to take the well deserved break people have been telling me to take for literally years. Why this date? Because it's the 600th day of the streak, a nice round number to end it with. I sure do love me some irony.
-
-The end of the streak has been reached! My one week hiatus from programming starts now and ends in one week. See you then'
-
----
-
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-
-<img src="https://streak-stats.demolab.com/?user=IzKuipers" style="width: calc(50% - 10px)">
-<img src="https://github-readme-stats.vercel.app/api?username=IzKuipers&show_icons=true&count_private=true" style="width: calc(50% - 10px)">
-
-</div>
