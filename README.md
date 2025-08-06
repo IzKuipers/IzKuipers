@@ -9,7 +9,7 @@ Want to contact me? My door's always open! Take a look at one of the following o
 - Take a look at my website: [Here!](https://izkuipers.nl)
 - Good thing email still exists: [here's my e-mail](mailto:izaak.kuipers@gmail.com) 📧
 - Oh, I'm on discord too: [@izkuipers](https://discordapp.com/users/656469722526908427) 💬
-- Alternatively, chat with my community on the [IzKuipers Community Discord Server](https://discord.gg/WW3KXHUFgj)!
+- Alternatively, chat with my community in the [ArcOS Discord Server](https://discord.gg/t5PaNP9dvg)!
 
 > [!WARNING]
 > For those of you clever enough to have found my phone number on my resumé, that number is **for employers or business inquiries only**. I don't need anyone texting or calling me just because. Leave my number alone.
