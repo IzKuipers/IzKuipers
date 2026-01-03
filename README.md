@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! My name is Izaak Kuipers, an 18 year old fullstack developer focused solely on making programs accessible to the public for IT hobbyists and the like. I've been on GitHub since december 2020 and have nearly 300 repositories. I specialize in frontend development using **TS, CSS and Svelte**, and a ton **backend API's using TS** (NodeJS), **Go**, **C#**, **PHP** and **Socket.IO**. I also have a lot of **experience creating API's** and other applications using **C#**. In 2025 I'm going to revisit my life's work: it's time to truly push the limits of possibility.
+Welcome to my GitHub profile! My name is Izaak Kuipers, and I'm an 18 year old fullstack developer focused solely on making programs accessible to the public for IT hobbyists and the like. I've been on GitHub since December of 2020, with over  300 repositories. I specialize in frontend development using **TS, CSS and Svelte**, and a ton **backend API's using TS** (NodeJS), **Go**, **C#**, **PHP** and **Socket.IO**. I also have a lot of **experience creating windows forms gamess** and other applications using **C#**. In 2026 it's time to continue the development of ArcOS: my advanced Web Operating System in the browser.
 
 ## Want to get in contact? 📧
 
