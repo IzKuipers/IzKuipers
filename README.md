@@ -4,7 +4,7 @@ Welcome to my GitHub profile! My name is Izaak Kuipers, and I'm an 18 year old f
 
 ## Want to get in contact? 📧
 
-Want to contact me? My door's always open! Take a look at one of the following options:
+My door's always open! Take a look at one of the following options:
 
 - Take a look at my website: [Here!](https://izkuipers.nl)
 - Good thing email still exists: [here's my e-mail](mailto:izaak.kuipers@gmail.com) 📧
