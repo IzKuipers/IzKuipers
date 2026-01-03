@@ -12,4 +12,4 @@ My door's always open! Take a look at one of the following options:
 - Alternatively, chat with my community in the [ArcOS Discord Server](https://discord.gg/t5PaNP9dvg)!
 
 > [!WARNING]
-> For the community member that have found my phone number on my resumé, that number is intended **for employers or business inquiries only**. I don't appreciate being called or texted just because, so please leave my number alone. Thank you.
+> For the community members that have found my phone number on my resumé, that number is intended **for employers or business inquiries only**. I don't appreciate being called or texted just because, so please leave my number alone. Thank you.
