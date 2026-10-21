@@ -11,5 +11,6 @@ My door's always open! Take a look at one of the following options:
 - Oh, I'm on discord too: [@izkuipers](https://discordapp.com/users/656469722526908427) 💬
 - Alternatively, chat with my community in the [ArcOS Discord Server](https://discord.gg/t5PaNP9dvg)!
 
-> [!WARNING]
-> For the community members that have found my phone number on my resumé, that number is intended **for employers or business inquiries only**. I don't appreciate being called or texted just because, so please leave my number alone. Thank you.
+---
+
+_(my pfp is a screenshot of an msteams screenshare of a snipping tool screenshot of that same msteams meeting)_
