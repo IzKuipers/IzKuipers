@@ -11,6 +11,9 @@ My door's always open! Take a look at one of the following options:
 - Oh, I'm on discord too: [@izkuipers](https://discordapp.com/users/656469722526908427) 💬
 - Alternatively, chat with my community in the [Sacruda Discord Server](https://discord.gg/t5PaNP9dvg)!
 
+<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/07f85d4b-e733-4be2-922f-63a4648f5d2d" />
+
+
 ---
 
 _(my pfp is a screenshot of an msteams screenshare of a snipping tool screenshot of that same msteams meeting)_
